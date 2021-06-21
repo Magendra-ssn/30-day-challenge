@@ -23,3 +23,20 @@ value which is given as an input by the user
 numbers
 • Wrote a Python program to swap cases of a given string
 • Wrote a program to convert an integer to binary & octa decimal
+
+day 9 -
+•	Wrote a program to loop through a list of numbers and add +2 to every value to elements in list
+•	Wrote a program to get the below pattern
+54321
+4321
+321
+21
+1
+
+•	Python Program to Print the Fibonacci sequence
+•	Explain Armstrong number and write a code with a function
+•	Wrote a program to print the multiplication table of 9
+•	Checked if a program is negative or positive
+•	Wrote a program to convert the number of days to ages
+•	Solved Trigonometry problem using math function write a program to solve using math function
+•	Created a calculator only on a code level by using if condition (Basic arithmetic calculation)
