@@ -44,3 +44,5 @@ day 9 -
 day 10 - Made a real life banking solution using inheritd classes where a employee can enter details and account holder can access it using passwrods but the child with a joint account cannot access the details 
 
 day 11 - created modules, installed panda. Worked with diiferent in built modules
+
+day 12 - Worked with files
