@@ -47,4 +47,6 @@ day 11 - created modules, installed panda. Worked with diiferent in built module
 
 day 12 - Worked with files
 
-day 13 - Basics of re module and regex commands
+day 13 - Learnt Basics of re module and regex commands
+
+day 14 - Used Try and Catch block
