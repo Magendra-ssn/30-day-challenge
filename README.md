@@ -50,3 +50,7 @@ day 12 - Worked with files
 day 13 - Learnt Basics of re module and regex commands
 
 day 14 - Used Try and Catch block
+
+day 15 - Basic python introduction
+
+day 16 - worked with lambda function
