@@ -54,3 +54,7 @@ day 14 - Used Try and Catch block
 day 15 - Basic python introduction
 
 day 16 - worked with lambda function
+
+day 17 - Learnt basics of mysql and created database. Linked database with python. Created items and operated in python
+
+day 18 - created a hospital database and selected specific info using python.
