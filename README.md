@@ -58,3 +58,5 @@ day 16 - worked with lambda function
 day 17 - Learnt basics of mysql and created database. Linked database with python. Created items and operated in python
 
 day 18 - created a hospital database and selected specific info using python.
+
+day 19 - Altered and selected specific data from databases using python and mysql :)
