@@ -63,4 +63,4 @@ day 19 - added excel file using python and mysql and added it into a database us
 
 day 20 - Altered and selected specific data from databases using python and mysql :)
 
-day 21 - 
+day 21 - Worked with map,filter and zip functions on lists and tuples
