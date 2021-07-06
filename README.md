@@ -64,3 +64,13 @@ day 19 - added excel file using python and mysql and added it into a database us
 day 20 - Altered and selected specific data from databases using python and mysql :)
 
 day 21 - Worked with map,filter and zip functions on lists and tuples
+
+day 22 - 
+	Read a jpeg image and print the image file
+	Merged two pdf files using python script
+	Scraped a website and store the data into DB.
+	Wrote queries to filter the data in db
+  Converted images to pdf
+  sent emails using python
+
+
