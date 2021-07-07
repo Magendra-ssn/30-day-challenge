@@ -73,4 +73,7 @@ day 22 -
   Converted images to pdf
   sent emails using python
 
+day 23 - Created a browse option with a specific folder which has all the JPEG Files & create a Convert button to convert the image from JPEG to PNG – Basic Image  converter App
+	Created another button as ‘fetch button’ and have a functionality of fetching the weather on a given location in text box
+	Created two browse button and place the .pdf file for the buttons and create a merge pdf option -  Watermark Merger App
 
