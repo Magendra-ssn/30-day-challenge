@@ -77,3 +77,4 @@ day 23 - Created a browse option with a specific folder which has all the JPEG F
 	Created another button as ‘fetch button’ and have a functionality of fetching the weather on a given location in text box
 	Created two browse button and place the .pdf file for the buttons and create a merge pdf option -  Watermark Merger App
 
+day 24 - Worked with json data types
