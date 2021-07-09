@@ -78,3 +78,5 @@ day 23 - Created a browse option with a specific folder which has all the JPEG F
 	Created two browse button and place the .pdf file for the buttons and create a merge pdf option -  Watermark Merger App
 
 day 24 - Worked with json data types
+
+day 25 - Worked with date and time functions.
