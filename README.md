@@ -80,3 +80,5 @@ day 23 - Created a browse option with a specific folder which has all the JPEG F
 day 24 - Worked with json data types
 
 day 25 - Worked with date and time functions.
+
+day 26 - Worked using enumeration, printing counter values with list values
