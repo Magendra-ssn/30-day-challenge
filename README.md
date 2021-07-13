@@ -84,3 +84,5 @@ day 25 - Worked with date and time functions.
 day 26 - Worked using enumeration, printing counter values with list values
 
 day 27 - scraped coronavirus data from https://www.worldometers.info/coronavirus/country/india/ and stored it in a excel sheet using python scrip :)
+
+day 28 - Created multiple threads and printed date and time using them.
