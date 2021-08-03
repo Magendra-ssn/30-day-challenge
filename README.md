@@ -78,9 +78,7 @@ day 22 -
 	Merged two pdf files using python script
 	Scraped a website and store the data into DB.
 	Wrote queries to filter the data in db
-  Converted images to pdf
-  sent emails using python
-
+ 
 day 23 - Created a browse option with a specific folder which has all the JPEG Files & create a Convert button to convert the image from JPEG to PNG – Basic Image  converter App
 	Created another button as ‘fetch button’ and have a functionality of fetching the weather on a given location in text box
 	Created two browse button and place the .pdf file for the buttons and create a merge pdf option -  Watermark Merger App
@@ -94,3 +92,9 @@ day 26 - Worked using enumeration, printing counter values with list values
 day 27 - scraped coronavirus data from https://www.worldometers.info/coronavirus/country/india/ and stored it in a excel sheet using python scrip :)
 
 day 28 - Created multiple threads and printed date and time using them.
+
+day 29 - sent emails using python
+
+day 30 -  Converted images to pdf
+  
+
